@@ -94,6 +94,6 @@ v_line.addWidget(gropvo,alignment=Qt.AlignCenter)
 v_line.addWidget(button,alignment=Qt.AlignCenter)
 win.setLayout(v_line)
 print(point)
-
+# СДЕСЬ БЫЛ КТО-ТО ─Ю→ОA╚pa╩{V↓rСАбдч╢⌂
 win.show()
 app.exec_()
